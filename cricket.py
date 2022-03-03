@@ -6,5 +6,5 @@ for i in score1:
         p1.append(i)
     else:
         p2.append(i)
-print("P1 is:", sum(p1))
-print("P2 is:", sum(p2))
+print("P1:", sum(p1))
+print("P2:", sum(p2))
